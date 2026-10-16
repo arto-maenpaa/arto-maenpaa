@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Arto Maenpää 👋
 
-<!--
-**arto-maenpaa/arto-maenpaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design open-source hardware blueprints and real-time audio pipelines that challenge conventional digital production limitations. 
 
-Here are some ideas to get you started:
+## 🛠️ Featured Project
+### [Non-Clipping Realtime Recording Pipeline](https://github.com)
+An audio recording blueprint, circuit, and pipeline with built-in controllable compression and saturation which enables recording -14 LUFS in real-time. Acts exactly like a physical tape recording workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **The Breakthrough:** Eliminates digital square-wave clipping at the physics layer using simple, pure analog gain paths before digital conversion.
+- **The Value:** Zero software latency. Zero tedious DAW post-production or volume normalization. Broadcast-ready stream output directly from a mobile device using accessible, budget hardware.
+
+---
+*Everything I build is focused on high-efficiency engineering, distributed open-source hardware ownership, and stripping away unnecessary software layers.*
