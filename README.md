@@ -10,4 +10,9 @@ An audio recording blueprint, circuit, and pipeline with built-in controllable c
 - **The Value:** Zero software latency. Zero tedious DAW post-production or volume normalization. Broadcast-ready stream output directly from a mobile device using accessible, budget hardware.
 
 ---
+
+### [The Broadcast Mic Post-Processing Blueprint](https://github.com/arto-maenpaa/lufs-only-broadcast-filter-chain)
+A high-efficiency single-pass FFmpeg `loudnorm` filter approach targeting -14 LUFS and -1 dBTP to achieve broadcast-ready audio without costly multi-stage processing chains.
+
+---
 *Everything I build is focused on high-efficiency engineering, distributed open-source hardware ownership, and stripping away unnecessary software layers.*
